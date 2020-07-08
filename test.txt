@@ -1,4 +1,10 @@
 my first file
 second line
 other changes
+<<<<<<< HEAD
 changes in repo 2
+=======
+blabla
+>>>>>>> new changes
+
+do something more
